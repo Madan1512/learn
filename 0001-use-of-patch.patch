@@ -1,0 +1,29 @@
+From 4ff19909230655469ec276dbdaa8dfe11925e188 Mon Sep 17 00:00:00 2001
+From: Madan Parameswaran <madanp.21aim@kongu.edu>
+Date: Fri, 8 Jul 2022 14:00:01 +0530
+Subject: [PATCH] use of patch
+
+---
+ first.txt | 10 ++--------
+ 1 file changed, 2 insertions(+), 8 deletions(-)
+
+diff --git a/first.txt b/first.txt
+index 9a296b8..73b1aa0 100644
+--- a/first.txt
++++ b/first.txt
+@@ -1,10 +1,4 @@
+ this is first line
+ this is second line
+-this is third line from git bash
+-this is third line
+-this is 4th line from git bash
+-5th line from github
+-6th line from github
+-:) :) :) 
+-10 th line
+-9th line
++this is third line from git 
++learn about the git patch
+-- 
+2.36.1.windows.1
+
